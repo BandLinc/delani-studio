@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.bgimg {
+    background-image: url('img/h_img.jpg');
+    background-size: cover;
+    height:700px;
+    width: auto;
+    text-align: center;
+    color: white;
+
+}
