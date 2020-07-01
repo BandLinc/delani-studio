@@ -189,4 +189,4 @@ hr.new5 {
 .form-control:-moz-placeholder { color: white; font-weight: bold;}  /* Mozilla Firefox 4 to 18 */
 .form-control::-moz-placeholder { color: white; font-weight: bold;}  /* Mozilla Firefox 19+ */
 .form-control:-ms-input-placeholder { color: white; font-weight: bold;}  /* Internet Explorer 10-11 */
-.form-control::-ms-input-placeholder { color: white; font-weight: bold;}  
+.form-control::-ms-input-placeholder { color: white; font-weight: bold;}
